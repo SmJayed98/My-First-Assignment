@@ -1,0 +1,58 @@
+*{
+    /* margin: 0%; */
+}
+.january{
+    display: flex;
+    /* width: 650px; */
+    /* align-items:column; */
+
+flex-direction: column;
+/* flex-shrink: 0; */
+}
+.btn-pimary{
+    /* color:white */
+    border-left: 0px;
+    border-radius:3px;
+    background: #E55473;
+
+    font-size:10px;
+/* gap: 4px; */
+    font-weight: 600;
+    color:white;
+    padding:5px 10px;
+    margin: 5px;
+
+     
+  
+    
+    
+
+}
+.text-pink{
+    /* color: #E55473; */
+}
+.make{
+    font-family: 'Open Sans', sans-serif;
+}
+nav li{
+    list-style: none;
+}
+
+/* header related work */
+.february{
+  
+    background: rgba(229, 84, 115, 0.10);
+   gap: 20px;
+   ;
+}
+
+
+.march{
+    margin-left: 65px;
+}
+
+.april{
+    display: flex;
+    gap: 80px;
+
+}
