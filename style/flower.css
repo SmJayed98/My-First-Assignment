@@ -9,19 +9,17 @@
 flex-direction: column;
 /* flex-shrink: 0; */
 }
-.btn-pimary{
-    /* color:white */
-    border-left: 0px;
+.btn-pimary{/* border-left: 0px; */
     border-radius:3px;
     background: #E55473;
 
     font-size:10px;
 /* gap: 4px; */
-    font-weight: 600;
+    font-weight: 700;
     color:white;
     padding:5px 10px;
-    margin: 5px;
-
+    margin-right: 200px;
+    border: 0px;
      
   
     
@@ -54,5 +52,63 @@ nav li{
 .april{
     display: flex;
     gap: 80px;
+    margin-top: -3px;
 
+}
+.rose{
+    margin-top: 9px;
+}
+
+
+
+
+.off{
+    color: red;
+}
+.btn{
+    border-left: 0px;
+    border-radius:3px;
+    background: #E55473;
+    text-align-last:center;
+   
+    margin-left: 30px;
+   
+
+    font-size:10px;
+gap: 4px;
+    font-weight: 700;
+    color:white;
+    padding:5px 10px;
+    margin: 5px;
+    border: 0px;
+}
+
+.hot{
+    display: flex;
+    background: #E55473;
+    margin: -5px;
+   
+height: 180px;
+flex-shrink: 0;
+border: 00px;
+background: rgba(229, 84, 115, 0.10);
+   gap: 0px;
+   margin: ;
+  
+ 
+
+}
+.center{
+    text-align: center;
+    border: 3px;
+    display: flex;
+    flex-direction: column;
+}
+.verse{
+    margin-right: -auto;
+}
+
+.up{
+    margin-left: 150px;
+    /* border-bottom: 3px; */
 }
