@@ -46,14 +46,17 @@ nav li {
 .february {
 
     background: rgba(229, 84, 115, 0.10);
-    gap: 20px;
+    /* gap: 20px */
     ;
 }
 
 
 .march {
-    /* margin-left: 65px; */
+    margin-left: 65px;
     justify-content: space-around;
+    display: flex;
+    padding-right: 300px;
+    
 }
 
 .april {
@@ -65,8 +68,8 @@ nav li {
 
 .rose {
     /* margin-top: 9px; */
-    margin-right: 300px;
-    justify-content: space-around;
+    /* margin-right: 300px; */
+    /* justify-content: space-around; */
 }
 
 
@@ -189,7 +192,7 @@ nav li {
     
 }
 .lal{
-    color: red;
+    color:#E55473;
 }
 .choto{
     font-size: xx-small;
@@ -212,4 +215,15 @@ nav li {
     background-image: url(../style/Rectangle\ 9.png);
 padding: 50px;
 margin: 150px;
+}
+.bee{
+    padding: 20px;
+}
+.sell{
+    color: red;
+}
+.honey{
+    /* text-decoration: wavy; */
+    
+    background-image: url(../style/download.jpg);
 }
