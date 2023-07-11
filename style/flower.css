@@ -216,6 +216,7 @@ nav li {
 padding: 50px;
 margin: 150px;
 }
+
 .bee{
     padding: 20px;
 }
@@ -226,4 +227,6 @@ margin: 150px;
     /* text-decoration: wavy; */
     
     background-image: url(../style/download.jpg);
+    box-shadow: 10px 20px 40px 5px goldenrod;
+    
 }
